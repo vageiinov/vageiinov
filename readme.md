@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vageiinov&label=DigiInsights&color=2EDBBC&style=flat&text_color=000000" alt="vageiinov"> </p>
+
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/vageiinov">
@@ -16,7 +18,7 @@
 <!-- Badge Section -->
 <p align="center">
   <a href="https://github.com/vageiinov">
-    <img src="https://img.shields.io/github/followers/vageiinov?label=Follow&style=flat-square&logo=github&color=success" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/vageiinov?label=Follow&style=flat-square&logo=github&color=2EDBBC" alt="GitHub followers">
   </a>
 </p>
 

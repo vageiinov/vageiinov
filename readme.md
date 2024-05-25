@@ -3,7 +3,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/vageiinov">
-    <img src="https://github.com/vageiinov/vageiinov/blob/main/1.png">
+    <img src="https://github.com/vageiinov/vageiinov/blob/main/Image.png">
   </a>
 </p>
 

@@ -24,7 +24,7 @@
 
 <!-- Introduction Text -->
 <p align="center">
-  Exploring the realms of coding and cybersecurity, one line of code at a time.
+  Charting the Frontiers of Code and Cybersecurity, Line by Line.
 </p>
 
 <!-- Skills Overview -->
